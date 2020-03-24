@@ -15,5 +15,5 @@ Real-time object detection using Pascal-VOC-pretrained YOLOv1 model
 
    [YOLOv1-tiny](https://drive.google.com/file/d/0B2JbaJSrWLpza0FtQlc3ejhMTTA/view?usp=sharing)
 
-2. run "realtime_detection.py" to detect from image, video or camera.
+2. Run "realtime_detection.py" to detect from image, video or camera.
 
